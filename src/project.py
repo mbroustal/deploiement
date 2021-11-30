@@ -7,6 +7,11 @@ def add_2(a):
   """ 
   Add 2 to a number 
   
+  >>> add_2(3)
+  5
+  >>> add_2(5)
+  7
+  
   Parameters
   --------------
     a : int
@@ -21,6 +26,11 @@ def add_2(a):
 def is_even(val):
   """ 
   Returns True if the input number is even, False if it's odd 
+  
+  >>> is_even(4)
+  True
+  >>> is_even(17)
+  False
   
   Parameters
   -------------
