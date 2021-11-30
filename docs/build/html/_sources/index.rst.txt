@@ -10,11 +10,26 @@ Welcome to deploiement's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   intro
+   project
 
+Je cherche à comprendre comment ça marche, mais ça va venir!
 
 Indices and tables
 ==================
 
+* `Introduction`_
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
+
+
+
+
+
+
+
+.. _Introduction: intro.html
