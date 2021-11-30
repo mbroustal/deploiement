@@ -3,7 +3,7 @@ def hello():
   print('Hello, world!')
   return
 
-def add_2(int a):
+def add_2(a):
   """ 
   Add 2 to a number 
   
