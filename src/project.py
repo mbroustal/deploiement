@@ -31,4 +31,4 @@ def is_even(val):
   -------------
     boolean, True if val is even, False if val is odd
   """
-  return num % 2 == 0
+  return val % 2 == 0
