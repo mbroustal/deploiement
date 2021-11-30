@@ -3,6 +3,7 @@
 
 ## Project
 Ce projet n'a pas d'autre intérêt que de me permettre de suivre le TP. 
+
 Les fonctions qu'il contient ne sont pas vraiment utiles dans la vraie vie. 
 
 ## Technologies
@@ -15,6 +16,8 @@ Ce projet contient plusieurs fonctions à objectifs peu utiles:
 
 ## Installation
 To use this project, install it locally:
+
+
 ``
 $ cd ../useless
 $ git clone https://github.com/mbroustal/deploiement
