@@ -12,7 +12,8 @@ Ce projet est codé en python3.6 . Il n'utilise pour l'instant aucun package par
 ## Fonctionnalités
 Ce projet contient plusieurs fonctions à objectifs peu utiles:
 * *hello* retourne "Hello, World!"
-* *add_2* ajoute 2 à un entier n.
+* *add_2* ajoute 2 à un entier n
+* *is_even* indique si un entier est pair.
 
 ## Installation
 To use this project, install it locally:
