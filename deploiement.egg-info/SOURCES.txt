@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+deploiement.egg-info/PKG-INFO
+deploiement.egg-info/SOURCES.txt
+deploiement.egg-info/dependency_links.txt
+deploiement.egg-info/top_level.txt
